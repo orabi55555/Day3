@@ -5,7 +5,7 @@ student={
 }  
 var student1=new Object();  
 student1.id=101;  
-student1.name="Ravi Malik";  
+student1.name="Rami Malik";  
 student1.salary=20;  
 //1
 //Object.is() 
